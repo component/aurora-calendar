@@ -1,9 +1,4 @@
-body {
-  font: 14px "Helvetica Neue", Helvetica, Arial;
-  padding: 80px;
-  color: #333;
-}
-a {
+.calendar a {
   display: block;
   padding: 5px;
   text-decoration: none;
