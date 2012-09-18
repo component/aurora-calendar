@@ -7,7 +7,7 @@
 
 ## Installation
 
-    $ component install aurora-calendar
+    $ component install component/aurora-calendar
 
 # License
 
