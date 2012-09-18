@@ -5,10 +5,10 @@
   color: inherit;
   border-radius: 3px;
 }
-a:hover {
+.calendar a:hover {
   background: #efefef;
 }
-a:active {
+.calendar a:active {
   opacity: .75;
 }
 .calendar-table {
