@@ -1,0 +1,14 @@
+{
+  "name": "aurora-calendar",
+  "repo": "component/aurora-calendar",
+  "description": "Aurora calendar theme",
+  "version": "0.0.1",
+  "keywords": ["aurora", "theme", "calendar"],
+  "dependencies": {},
+  "development": {
+    "component/calendar": "*"
+  },
+  "styles": [
+    "style.css"
+  ]
+}
