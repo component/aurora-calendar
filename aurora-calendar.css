@@ -21,11 +21,7 @@
   background: none;
 }
 .calendar-table .selected a {
-  /* TODO: remove when rework(1) fixes gradients */
-  background: -webkit-linear-gradient(#76aaef, #0085CC);
-  background: -moz-linear-gradient(#76aaef, #0085CC);
-  background: -ms-linear-gradient(#76aaef, #0085CC);
-  background: -o-linear-gradient(#76aaef, #0085CC);
+  background: linear-gradient(#76aaef, #0085CC);
   box-shadow: inset 0 1px #2b8dea;
   color: white;
 }
